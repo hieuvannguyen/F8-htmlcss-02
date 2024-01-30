@@ -293,7 +293,7 @@ a {
 
 .courses {
   padding: 200px 0;
-  background: #00f7ff;
+  /* background: #00f7ff; */
 }
 .courses-top {
   display: flex;
